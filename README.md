@@ -22,12 +22,13 @@ Lowering the barrier to entry democratizes open source development, and helps yo
 
 ## Questions
 
-1. What 3 features make Github so powerful?
-2. How is Github like a resume?
-3. Send a direct message to your coach with the answer to this question: How does Github help young projects grow?
-4. Log into your Github Account, in the 'Overview' tab - update your three pinned repositories (pick any three)
-5. Check your Github contribution map, how many contributions do you have this year?
+1. What 3 features make Github so powerful? Answer: Forking, Cloning and Merging.
+2. How is Github like a resume? Answer: Developers can submit work to a project via pull request. This creates a history that is visable to the community. As a developer grows the "resume" of accepted pull request they will gain trust and credibility within the softwared development community within GitHub. The developer can then offer their GitHub as part of their resume when applying for work. 
+
+3. Send a direct message to your coach with the answer to this question: How does Github help young projects grow? Answer submit as direct messag to Kyle: Githhub allows young developers the access to fork and clone projects that they can work on. Once they have something to contribute they can send pull request to the project manager who can evaluate their work and chose to merge it into the master repository. The young developer can build their reputation based on their contributions to the community. They also can make connections within the industry through their contributions. 
+4. Log into your Github Account, in the 'Overview' tab - update your three pinned repositories (pick any three) A: Task Completed
+5. Check your Github contribution map, how many contributions do you have this year? A: 147 contributions this year. 
 6. Made a new repo, clone it to your local computer and add a README
 7. In the readme, add your name, birthday, and a list of all your favorite things including book, movie, band/music, food and past-time
-8. On Github, find 3 repositories you're interested in and 'star' them
+8. On Github, find 3 repositories you're interested in and 'star' them.  Done 
 9. This Github article is interesting, but you don't need to read it for this exercise. Just do number 4 and move on to the next drill
